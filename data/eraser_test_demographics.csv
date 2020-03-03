@@ -1,4 +1,4 @@
-group,par_id,handedness,height,gender,skill_level,well_being
+group,par_id,handedness,height,biological_sex,skill_level,well_being
 1,111,right,5'10,M,medium,medium
 1,112,right,5'7,M,medium,medium
 1,113,left,5'4,F,high,good
