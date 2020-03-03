@@ -1,0 +1,10 @@
+group,par_id,handedness,height,gender,skill_level,well_being
+1,111,right,5'10,M,medium,medium
+1,112,right,5'7,M,medium,medium
+1,113,left,5'4,F,high,good
+2,211,left,5'5,F,low,medium
+2,212,right,5'7,F,low,medium
+2,213,left,5'4,M,medium,low
+3,311,right,5'0,F,high,high
+3,312,right,5'6,F,high,low
+3,313,left,5'11,M,low,low
